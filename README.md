@@ -31,7 +31,6 @@ I am a Data Science and AI Engineering student at **CamTech University** based i
 - **Livestock Digital Twin (Anitwin):** Collaborating on an environmental and physiological modeling system for cattle heat stress and energy balance using Python and lightweight 3D web visualization.
 - **Computer Vision & Smart Campus Systems:** Designing automated occupancy tracking and smart library counter solutions using OpenCV and MediaPipe.
 - **Data Science & EDA:** Building end-to-end exploratory data analysis pipelines and predictive models on real-world datasets.
-- **Algorithmic Trading Systems:** Engineering custom TradingView Pine Script indicators combining Smart Money Concepts (CHoCH/BOS) and Quasimodo price action structures.
 - **Community & Collaboration:** Open to collaborating with fellow developers and researchers on AI, data engineering, and open-source projects.
 
 ---
